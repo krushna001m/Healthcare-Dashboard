@@ -8,7 +8,7 @@ An interactive and modern **Healthcare Dashboard** built using **React**, **Tail
 
 ## 🌍 Live Demo
 
-👉 [**View Healthcare Dashboard App**](https://healthcare-dashboard-krushna.vercel.app/)
+👉 [**View**](/)
 
 ---
 
@@ -55,7 +55,7 @@ The **Healthcare Dashboard** is designed to visualize key healthcare metrics suc
    ```bash
    git clone https://github.com/krushna001m/Healthcare-Dashboard.git
    cd Healthcare-Dashboard
-````
+   ```
 
 2. **Install dependencies**
 
