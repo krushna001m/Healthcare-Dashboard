@@ -79,16 +79,19 @@ The **Healthcare Dashboard** is designed to visualize key healthcare metrics suc
 
 ```plaintext
 Healthcare-Dashboard/
-├── public/                 # Static assets
-├── src/                    # React components & logic
-│   ├── components/         # Reusable UI components
-│   ├── pages/              # Main dashboard pages
-│   └── App.jsx             # Main App component
-├── index.html              # Root HTML file
-├── package.json            # Project metadata & scripts
-├── tailwind.config.js      # Tailwind CSS configuration
-├── vite.config.js          # Vite configuration
-├── README.md               # Project documentation
+├── app/               # Next.js app directory (routing)
+├── components/        # Reusable UI components
+├── hooks/             # Custom React hooks
+├── lib/               # Utility libraries/functions
+├── public/            # Static assets (images, icons, etc.)
+├── src/               # Optional nested modules
+├── styles/            # Tailwind and global styles
+├── next.config.mjs    # Next.js configuration
+├── tailwind.config.ts # Tailwind setup
+├── postcss.config.mjs # PostCSS setup
+├── package.json       # Dependencies and scripts
+└── tsconfig.json      # TypeScript configuration
+
 ```
 
 ---
