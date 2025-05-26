@@ -1,6 +1,6 @@
 
 
-# 🏥 Healthcare 
+# 🏥 Healthcare Dashboard
 
 An interactive and modern **Healthcare Dashboard** built using **React**, **Tailwind CSS**, and **Chart.js**. It provides a responsive UI to display real-time healthcare analytics and statistics, useful for hospitals, health tracking platforms, and admin dashboards.
 
