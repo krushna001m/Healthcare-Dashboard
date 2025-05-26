@@ -8,7 +8,7 @@ An interactive and modern **Healthcare Dashboard** built using **React**, **Tail
 
 ## 🌍 Live Demo
 
-👉 [**View**](/)
+👉 [**View (Coming Soon)**](/)
 
 ---
 
